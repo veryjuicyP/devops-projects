@@ -2,6 +2,13 @@
 
 This project is a Bash script that analyzes basic Linux server performance statistics.
 
+## Project Source
+
+Project Link:
+https://roadmap.sh/projects/server-stats
+
+The goal of this project is to build a Bash script that analyzes basic server performance statistics such as CPU usage, memory usage, disk usage, and the top processes running on the server.
+
 ## Features
 
 - CPU Usage
